@@ -1,0 +1,30 @@
+*{	padding:0px;
+	margin:0px;	}
+.box{	width:100%;	height:1000px;	background:no-repeat center center ;
+	overflow:hidden;	}
+.box1{	background-image: url(../img/h-12.jpg);}
+.box2{	background-image: url(../img/h-8.jpg);	}
+.box3{	background-image: url(../img/h-13.jpg);	}
+.box4{	background:#666  url(../img/bg.png)	no-repeat center bottom;	}
+.box5{	background-image: url(../img/h-24.jpg);	}
+.box6{	background-image: url(../img/h-21.jpg);	}
+body{	font-family:"微软雅黑";	}
+.box .text h2{	font-weight:400px;	font-size:36px;	color:#333;	line-height:1.6em;}
+.box .text p{	font-size:13px;	color:#333;	line-height:1.8em;	margin-top:25px;}
+.box .text a{	font-size:16px;	color:#ff6700;	text-decoration:none;}
+.box1 .text{	margin-left:20%;	margin-top:20%;		}
+.box .text .price{	color:#F00;	font-size:14px;	margin-top:30px;	margin-bottom:20px;	}
+.box .text .price span{	font-size:36px;	}
+.box2 .text h2{	margin-left:60%;	margin-top:5%;	color:#FFFFFF;	}
+.box2 .text p{	margin-left:55%;	margin-top:2%;	color:#FFFFFF;	}
+.box2 .text a{	float:left;	margin-left:65%;	margin-top:0%;	}
+.box3 .text h2{	margin-left:35%;	margin-top:30%;	}
+.box3 .text p{	margin-left:30%;	margin-top:2%;}
+.box3 .text a{	float:left;	margin-left:45%;	margin-top:0%;}
+.box4 .text h2{	margin-left:35%;	margin-top:30%;	color:#FFFFFF;	}
+.box4 .text p{	margin-left:40%;	margin-top:2%;	color:#FFFFFF;}
+.box4 .text a{	float:left;	margin-left:55%;	margin-top:0%;}
+.box5 .text{	margin-left:20%;	margin-top:20%;	}
+.box6 .text h2{	margin-left:35%;	margin-top:10%;	}
+.box6 .text p{	margin-left:30%;	margin-top:2%;}
+.box6 .text a{	float:left;	margin-left:45%;	margin-top:0%;}
